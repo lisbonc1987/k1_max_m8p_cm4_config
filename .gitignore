@@ -25,7 +25,6 @@ Thumbs.db
 .idea/
 
 # Backup files created by editors
-*~
 \#*\#
 
 # Don't ignore .cfg files (these are the Klipper configs we want to backup)
