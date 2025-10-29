@@ -1,0 +1,32 @@
+# Klipper backup repository .gitignore
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*~
+
+# Log files
+*.log
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+.directory
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Backup files created by editors
+*~
+\#*\#
+
+# Don't ignore .cfg files (these are the Klipper configs we want to backup)
+!*.cfg
