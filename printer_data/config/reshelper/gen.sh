@@ -1,4 +1,3 @@
-k1max@k1max:~ $ cat ResHelper/gen.sh
 #!/bin/bash
 # set -eo pipefail
 #### Functions definitions
